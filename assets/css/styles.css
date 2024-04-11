@@ -16,8 +16,8 @@ body {
     color: var(--color-white);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     display: flex;
-    justify-content: center;  /* horizontal */
-    align-items: center;     /* vertical */ 
+    justify-content: center;  
+    align-items: center;      
     min-height: 100vh;      /* faz o body ocupar a tela toda e ajuda o "align-items" centralizar os elementos */
     flex-direction: column;
     gap: 3.6rem;
